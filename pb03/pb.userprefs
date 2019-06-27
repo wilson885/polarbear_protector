@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerCharacter.cs">
+    <Files>
+      <File FileName="Assets/drag2.cs" Line="1" Column="1" />
+      <File FileName="Assets/upanddown.cs" Line="8" Column="55" />
+      <File FileName="Assets/spin3.cs" Line="1" Column="1" />
+      <File FileName="Assets/spin2.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets/rayshooter.cs" Line="1" Column="1" />
+      <File FileName="Assets/cubedelete.cs" Line="1" Column="1" />
+      <File FileName="Assets/score.cs" Line="1" Column="1" />
+      <File FileName="Assets/beardelete.cs" Line="1" Column="1" />
+      <File FileName="Assets/snow.cs" Line="1" Column="1" />
+      <File FileName="Assets/shipcontroller.cs" Line="13" Column="3" />
+      <File FileName="Assets/shipanimation.cs" Line="1" Column="1" />
+      <File FileName="Assets/all_scene.cs" Line="1" Column="1" />
+      <File FileName="Assets/SceneController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

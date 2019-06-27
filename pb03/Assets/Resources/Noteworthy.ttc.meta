@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 734229948fd604e698c448aa6ecadfd7
+timeCreated: 1511439387
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noteworthy
+  fontNames:
+  - Noteworthy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
